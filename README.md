@@ -4,9 +4,9 @@ I'm a technology enthusiast and programmer with a background as a Computer Techn
 
 ## :man_technologist: About Me :
 
-- 🌍 I reside in [Poland](#).
-- 💼 Currently, I work as a [Assembly Line Worker](#) at [Volkswagen Group Pozna](#).
-- 🎓 I hold a title as a [Computer Technician](#) and I'm currently a [Computer Science student](#), specializing in [Artificial Intelligence Systems](#).
+- 🌍 I reside in `Poland`.
+- 💼 Currently, I work as a `Assembly Line Worker` at `Volkswagen Poznań`.
+- 🎓 I hold a title as a `Computer Technician` and I'm currently a `Computer Science student`, specializing in `Artificial Intelligence Systems`.
 
 ## My Interests
 
